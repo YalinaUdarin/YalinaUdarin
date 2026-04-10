@@ -46,3 +46,45 @@
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yalina-hewage-8687613aa)
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛍️ Lorente
+A responsive e-commerce platform for a local clothing startup with a customer storefront and real-time admin panel.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📋 PAF01 — Git Basics
+Foundational Git version control lab — local repos, staging, committing, and pushing to GitHub.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌿 PAF2 — Git Branching
+Git branching, Pull Requests, and GitHub Flow workflow lab — individual and pair collaboration.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
